@@ -25,7 +25,7 @@
 </p>
 
 <p align="center">
-<a href='https://testflight.apple.com/join/eATxXMhf'><img height='50' alt='Join the Beta on TestFlight' src='https://anotherlens.app/testflight-badge.png'/></a>
+<a href='https://apps.apple.com/it/app/sushiroll-il-gioco/id1610765239'><img height='50' alt='Download on the AppStore' src='./Assets/Download_on_the_App_Store_Badge_US-UK_RGB_blk_092917.svg'/></a>
 </p>
 
 <p>
@@ -36,7 +36,7 @@ With its intuitive mechanics and cartoonish graphics it is meant for everybody, 
 This game is the result of a long research and study process. We started from the idea of an endless game, selected a theme (Sushi) and made our first iterations in 2 dimensions, drawing every asset by hand.
 So what started as a flat boring interface became a more complex and catchy concept.
 We then decided to take a step further and transported all those drawings into 3D, trying to maintain the design as engaging as it was on paper. 
-After a full immersion into SceneKit and its engine, we deployed it on TestFlight to collect as much data and feedbacks as possible. 
+After a full immersion into SceneKit and its engine, we deployed it on TestFlight to collect as much data and feedbacks as possible. It is now finally available on the App Store. 
 Hope you can enjoy it as much as we did!
   <p align="center">
     <img align="center" width="421" height="595" src="Assets/poster.jpg">
